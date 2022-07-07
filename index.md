@@ -11,10 +11,10 @@ Exercendo o papel de Analista e Desenvolvedor da solução de Controle de Rebate
 Exercendo o papel de Analista da solução de Monitoramento dos Prestadores de Serviços da Empresa.
 
 ## Experiência Profissional
-#### Assessor de TI I 2022 - atual
-#### Assessor I       2017 - 2022
-#### Assessor II      2016 - 2017
-#### Assessor III     2014 - 2016
+#### Assessor de TI I               atual
+#### Assessor I                     2017 - 2022
+#### Assessor II                    2016 - 2017
+#### Assessor III                   2014 - 2016
 
 ## Habilidades/Conhecimentos
 ### Linguagens de Programação 
