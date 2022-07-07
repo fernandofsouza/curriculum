@@ -1,9 +1,9 @@
 ## Fernando F. Souza
-[email](ferdinando.souza@bb.com.br) | [linkedin](https://www.linkedin.com/in/fernando-souza-5b434235/) | 
+[ferdinando.souza@bb.com.br] | [linkedin](https://www.linkedin.com/in/fernando-souza-5b434235/) | 
 
 ## Projetos
 #### BUS - Base Única Segura
-Exercendo o papel de Líder Técnico de um squad multidisciplinar de 7 colaboradores. 
+Exercendo o papel de Líder Técnico de um squad multidisciplinar composto por 3 funcionários e 4 contratados da fábrica de software Montreal S.A. 
 #### TRD - Trader Boletagem Offshore
 Exercendo o papel de Analista e Desenvolvedor da solução de Boletagem de ativos internacionais para as áreas de Gestão dos Fundos de Investimento da Empresa.
 #### REB - Controle de Rebates de Fundos de Investimentos
