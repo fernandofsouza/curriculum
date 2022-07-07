@@ -13,13 +13,13 @@ Exercendo o papel de Analista e Desenvolvedor da solução de Controle de Rebate
 Exercendo o papel de Analista da solução de Monitoramento dos Prestadores de Serviços da Empresa.
 
 ## Experiência Profissional
-#### Assessor de TI I >>> atual
+#### Assessor de TI I >  atual
 - Liderando um squad de 7 colaboradores (funcionários e contratados), com a responsabilidade de construir uma solução de centralização e manutenção das informações cadastrais de todos os Fundos de Investimentos da BB DTVM (BUS - Base Única Segura).
 - Desenvolvendo aplicações departamentais que mitigaram os riscos operacionais oriundos de vários processos manuais que foram automatizados.
 - Implantando ferramentas para o auxílio do desenvolvimento seguro de software, utilizando devops e boas práticas.
 - Participando de Grupo interno de Trabalho visando a adequação da Empresa à resolução Bacen Número 4.658 (Política de Segurança Cibernética) de 26 de abril de 2018.
 
-#### Assessor II >>> 2016 - 2017
+#### Assessor II >  2016 - 2017
 - Desenvolvendo aplicações departamentais para a Gestão de Fundos Offshore e Fundos Multimercados.
 - Realizando administração de Bancos de dados Relacionais.
 - Desenvolvendo Rotina de pagamento da Taxa de Fiscalização CVM dos Fundos da BB DTVM.
