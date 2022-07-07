@@ -1,32 +1,32 @@
 ## Fernando F. Souza
 
-### Projetos
-# BUS - Base Única Segura
-# TRD - Trader Boletagem Offshore
-# REB - Controle de Rebates de Fundos de Investimentos
-# MPS - Monitor de Prestadores de Serviços
+## Projetos
+#### BUS - Base Única Segura
+#### TRD - Trader Boletagem Offshore
+#### REB - Controle de Rebates de Fundos de Investimentos
+#### MPS - Monitor de Prestadores de Serviços
 
-### Experiência Profissional
+## Experiência Profissional
 Assessor de TI I
 
-### Habilidades/Conhecimentos
-#Linguagens de Programação 
+## Habilidades/Conhecimentos
+### Linguagens de Programação 
 - Java
 - SQL 
 - Python
 - Javascript
 - HTML
 - CSS 
-#Metodologias Ágeis
+### Metodologias Ágeis
 -Scrum
 -Kanban
 
 
-### Formação
+## Formação
 Pós Graduação lato sensu - Arquitetura de Software Distribuído
 Graduação - Sistemas de Informação
 
-### Idiomas
+## Idiomas
 Inglës - Intermediário (B1)
 
 
