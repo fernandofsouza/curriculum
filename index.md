@@ -1,12 +1,36 @@
-## Welcome to GitHub Pages
+## Fernando F. Souza
 
-You can use the [editor on GitHub](https://github.com/fernandofsouza/curriculum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Projetos
+# BUS - Base Única Segura
+# TRD - Trader Boletagem Offshore
+# REB - Controle de Rebates de Fundos de Investimentos
+# MPS - Monitor de Prestadores de Serviços
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experiência Profissional
+Assessor de TI I
 
-### Markdown
+### Habilidades/Conhecimentos
+#Linguagens de Programação 
+- Java
+- SQL 
+- Python
+- Javascript
+- HTML
+- CSS 
+#Metodologias Ágeis
+-Scrum
+-Kanban
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Formação
+Pós Graduação lato sensu - Arquitetura de Software Distribuído
+Graduação - Sistemas de Informação
+
+### Idiomas
+Inglës - Intermediário (B1)
+
+
+
 
 ```markdown
 Syntax highlighted code block
