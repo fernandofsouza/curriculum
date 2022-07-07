@@ -1,5 +1,7 @@
 ## Fernando F. Souza
 # Curriculum
+![avatar](https://user-images.githubusercontent.com/13275070/177700331-9a83d696-5cd7-4e19-8ae1-a8ffc339b9de.jpg)
+
 ferdinando.souza@bb.com.br | [linkedin](https://www.linkedin.com/in/fernando-souza-5b434235/) | 
 
 ## Projetos
