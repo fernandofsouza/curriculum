@@ -2,12 +2,19 @@
 
 ## Projetos
 #### BUS - Base Única Segura
+Exercendo o papel de Líder Técnico de um squad multidisciplinar de 7 colaboradores. 
 #### TRD - Trader Boletagem Offshore
+Exercendo o papel de Analísta e Desenvolvedor da solução de Boletagem de ativos internacionais para as áreas de Gestão dos Fundos de Investimento da Empresa.
 #### REB - Controle de Rebates de Fundos de Investimentos
+Exercendo o papel de Analista e Desenvolvedor da solução de Controle de Rebates de Fundos de Investimentos da Empresa.
 #### MPS - Monitor de Prestadores de Serviços
+Exercendo o papel de Analista da solução de Monitoramento dos Prestadores de Serviços da Empresa.
 
 ## Experiência Profissional
-#### Assessor de TI I
+#### Assessor de TI I 2022 - atual
+#### Assessor I       2017 - 2022
+#### Assessor II      2016 - 2017
+#### Assessor III     2014 - 2016
 
 ## Habilidades/Conhecimentos
 ### Linguagens de Programação 
@@ -17,7 +24,8 @@
 - Javascript
 - HTML
 - CSS
- ### Metodologias Ágeis
+
+### Metodologias Ágeis
 - Scrum
 - Kanban
 
@@ -28,8 +36,10 @@
 - Spark
 
 ### Soft Skills
+- Liderança
 - Resolução de Problemas
-- 
+- Tomada de Decisão
+- Comunicação
 
 ## Educação
 Pós Graduação lato sensu - Arquitetura de Software Distribuído
