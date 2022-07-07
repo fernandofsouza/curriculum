@@ -16,14 +16,16 @@
 - Python
 - Javascript
 - HTML
-- CSS 
+- CSS
+ 
 ### Metodologias Ágeis
--Scrum
--Kanban
+- Scrum
+- Kanban
 
 
 ## Formação
 Pós Graduação lato sensu - Arquitetura de Software Distribuído
+
 Graduação - Sistemas de Informação
 
 ## Idiomas
