@@ -61,4 +61,7 @@ Graduação - Bacharelado em Sistemas de Informação
 Inglês - Intermediário (B1)
 
 ## Adicionais
-Participação de Grupo de Trabalho de Cibersegurança ANBIMA : 2018
+- Participação no Programa Novas Lideranças da BB DTVM ministrado pelo Instituto Educacional Insper : 2022
+- Aprovado no Processo Seletivo para Gerente de Soluções da BB DTVM na Divisão de Construção de Aplicações :2021
+- Aprovado no Processo Seletivo para Gerente de Soluções da BB DTVM na Divisão de Mentoria e Analytics : 2021
+- Participação de Grupo de Trabalho de Cibersegurança ANBIMA : 2018
