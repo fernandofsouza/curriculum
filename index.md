@@ -22,7 +22,7 @@ Exercendo o papel de Analista da solução de Monitoramento dos Prestadores de S
 #### Assessor II                                 2016 - 2017
 - Desenvolvendo aplicações departamentais para a Gestão de Fundos Offshore e Fundos Multimercados.
 - Realizando administração de Bancos de dados Relacionais.
-- Desenvolvimento de Rotina de pagamento da Taxa de Fiscalização CVM dos Fundos da BB DTVM.
+- Desenvolvendo Rotina de pagamento da Taxa de Fiscalização CVM dos Fundos da BB DTVM.
 
 ## Habilidades/Conhecimentos
 ### Linguagens de Programação 
