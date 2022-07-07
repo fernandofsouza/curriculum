@@ -40,7 +40,7 @@ Exercendo o papel de Analista da solução de Monitoramento dos Prestadores de S
 ### Análise de Dados
 - Ferramentas de ETL
 - BI (Cognos)
-- Haddoop
+- Hadoop
 - Spark
 
 ### Soft Skills
