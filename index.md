@@ -43,6 +43,7 @@ Exercendo o papel de Analista da solução de Monitoramento dos Prestadores de S
 
 ## Educação
 Pós Graduação lato sensu - Arquitetura de Software Distribuído
+
 Graduação - Bacharelado em Sistemas de Informação
 
 ## Idiomas
