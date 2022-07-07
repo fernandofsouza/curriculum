@@ -4,6 +4,10 @@
 
 
 ferdinando.souza@bb.com.br | [linkedin](https://www.linkedin.com/in/fernando-souza-5b434235/) | 
+## Perfil
+- Participação no Programa Novas Lideranças da BB DTVM ministrado pelo Instituto Educacional Insper : 2022
+- Aprovado e Indicado para compor o mapa de Talentos no Processo Seletivo para Gerente de Soluções da BB DTVM na Divisão de Construção de Aplicações : 2021
+- Aprovado e Indicado para compor o mapa de Talentos no Processo Seletivo para Gerente de Soluções da BB DTVM na Divisão de Analytics e Mentoria : 2021
 
 ## Projetos
 #### BUS - Base Única Segura
@@ -61,7 +65,4 @@ Graduação - Bacharelado em Sistemas de Informação
 Inglês - Intermediário (B1)
 
 ## Adicionais
-- Participação no Programa Novas Lideranças da BB DTVM ministrado pelo Instituto Educacional Insper : 2022
-- Aprovado e Indicado para compor o mapa de Talentos no Processo Seletivo para Gerente de Soluções da BB DTVM na Divisão de Construção de Aplicações : 2021
-- Aprovado e Indicado para compor o mapa de Talentos no Processo Seletivo para Gerente de Soluções da BB DTVM na Divisão de Analytics e Mentoria : 2021
 - Participação de Grupo de Trabalho de Cibersegurança ANBIMA : 2018
