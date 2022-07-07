@@ -8,6 +8,8 @@ ferdinando.souza@bb.com.br | [linkedin](https://www.linkedin.com/in/fernando-sou
 - Participação no Programa Novas Lideranças da BB DTVM ministrado pelo Instituto Educacional Insper : 2022
 - Aprovado e Indicado para compor o mapa de Talentos no Processo Seletivo para Gerente de Soluções da BB DTVM na Divisão de Construção de Aplicações : 2021
 - Aprovado e Indicado para compor o mapa de Talentos no Processo Seletivo para Gerente de Soluções da BB DTVM na Divisão de Analytics e Mentoria : 2021
+- Posse no Banco do Brasil em 04/04/2005
+- Posse na BB DTVM em 03/11/2014
 
 ## Projetos
 #### BUS - Base Única Segura
