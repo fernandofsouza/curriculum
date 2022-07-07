@@ -17,19 +17,24 @@
 - Javascript
 - HTML
 - CSS
- 
-### Metodologias Ágeis
+ ### Metodologias Ágeis
 - Scrum
 - Kanban
+### Análise de Dados
+- Ferramentas de ETL
+- BI (Cognos)
+- Haddoop
+- Spark
+### Soft Skills
+- Resolução de Problemas
+- 
 
-
-## Formação
+## Educação
 Pós Graduação lato sensu - Arquitetura de Software Distribuído
-
-Graduação - Sistemas de Informação
+Graduação - Bacharelado em Sistemas de Informação
 
 ## Idiomas
-Inglës - Intermediário (B1)
+Inglês - Intermediário (B1)
 
 
 
