@@ -20,11 +20,13 @@
  ### Metodologias Ágeis
 - Scrum
 - Kanban
+
 ### Análise de Dados
 - Ferramentas de ETL
 - BI (Cognos)
 - Haddoop
 - Spark
+
 ### Soft Skills
 - Resolução de Problemas
 - 
